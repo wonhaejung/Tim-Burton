@@ -10,7 +10,7 @@ $(document).ready(function(){
 					//})
 		$(".land-2").animate({top:"100px"},3500)
 		$(".land-3").animate({top:"100px"},2500)
-		$(".moon").animate({bottom:"30px"},2000)
+		$(".moon").animate({bottom:"60px"},2000)
 		// $(".snow").animate({top:"10px"},7000)
 	})	
 })
